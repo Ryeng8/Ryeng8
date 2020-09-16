@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Panya</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h1 align="center">Hi 👋, I'm R_Yeng</h1>
+<img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t1.0-9/117966340_2406498886322731_9007178770220886671_o.jpg?_nc_cat=111&_nc_sid=85a577&_nc_eui2=AeEm_mLbZ53EQuqjLFUdHetHvGh6sZHDVAO8aHqxkcNUAywG9RHmJuRJF1x_-wzFRJ3b4lYnyaTS0P8o6YG4CnaD&_nc_ohc=dJInXLAZ8xcAX_GIitm&_nc_ht=scontent.fcnx4-1.fna&oh=e89730eb3f7efd4a4c46045b08186f67&oe=5F857372" alt="php" width="80" height="80"/>
+<h3 align="center">Software Engineering from Thailand</h3>
 
 - 🔭 I’m currently working on **erp system**
 
-- 🌱 I’m currently learning **Django + Vue.js**
+- 🌱 I’m currently learning **React native**
 
 - 📫 How to reach me **ryeng.888@gmail.com**
 
